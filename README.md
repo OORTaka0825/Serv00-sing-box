@@ -1,4 +1,4 @@
-# serv00-script
+# Serv00-sing-box节点脚本恢复，每天0点自动运行一次
 
 ## 恢复 sing-box 服务并发送 Telegram 通知
 
