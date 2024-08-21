@@ -40,7 +40,7 @@ youtube频道：https://www.youtube.com/@yixiu001
            "host": "example1.com",
            "port": 22,
            "username": "user1",
-           "password": "password1",
+           "password": "password1"
        },
        {
            "host": "example2.com",
