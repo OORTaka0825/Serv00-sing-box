@@ -6,9 +6,13 @@
 
 ### 提示
 这个项目是完全复刻https://github.com/yixiu001/serv00-script这位大佬的
+
 基于大佬的[serv00一键部署vless节点](https://youtu.be/QnlzpvDl_mo)
+
 由于我不是vless节点，所以我把没有用的文件删掉，vless改成sing-box
+
 具体问题可反馈至原作群聊[https://t.me/yxjsjl](https://t.me/yxjsjl)
+
 youtube频道：https://www.youtube.com/@yixiu001
 
 我自己写的教程：https://oortaka.top/archives/serv00-bao-huo
