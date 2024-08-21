@@ -41,14 +41,12 @@ youtube频道：https://www.youtube.com/@yixiu001
            "port": 22,
            "username": "user1",
            "password": "password1",
-           "cron": "cd ~/domains/$USER.serv00.net/vless && ./check_vless.sh"
        },
        {
            "host": "example2.com",
            "port": 22,
            "username": "user2",
            "password": "password2"
-           // 没有cron参数，使用默认命令
        }
    ]
 
