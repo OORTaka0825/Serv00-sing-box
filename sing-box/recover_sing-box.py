@@ -8,7 +8,6 @@ def send_telegram_message(token, chat_id, message):
     telegram_payload = {
         "chat_id": chat_id,
         "text": message,
-        "reply_markup": '{"inline_keyboard":[[{"text":"问题反馈❓","url":"https://t.me/yxjsjl"}]]}'
     }
 
     response = requests.post(telegram_url, json=telegram_payload)
